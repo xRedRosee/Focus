@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_3" data-name="Laag 3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: CenturyGothic, 'Century Gothic';
+        font-size: 114px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #a9caee;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-3 {
+        fill: #a9caee;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-2" d="M243.37,201h-11.92l-21.08,23v-23h-31.3V116.58h117.86s-.06,64.92,0,78.57c.03,7.78-25.06,12.35-31.06-1.65-4.73-11.04,12.14-55-28-55"/>
+    <circle class="cls-3" cx="193.37" cy="129" r="5"/>
+    <circle class="cls-2" cx="241.87" cy="162.5" r="24"/>
+  </g>
+  <text class="cls-1" transform="translate(60.77 290.95)"><tspan x="0" y="0">FOCUS</tspan></text>
+</svg>
